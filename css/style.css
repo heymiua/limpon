@@ -52,3 +52,38 @@ a {
 	color: #1085e4;
 	text-decoration: none;
 }
+
+/*part 8*/
+.page-analytics1 {
+
+}
+
+/*part 9*/
+.page-analytics2 {
+
+}
+
+
+/*part 10*/
+.page-screen {
+	text-align: center;
+}
+
+.page-screen h2 {
+	font-size: 40px;
+	font-weight: 800;
+	color: #192b59;
+	line-height: 50px;
+}
+
+.page-screen h2 span {
+	font-size: 14px;
+	font-weight: 800;
+	color: #1085e4;
+	line-height: 90px;
+	display: block;
+	text-transform: uppercase;
+}
+
+
+
