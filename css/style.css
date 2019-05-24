@@ -53,14 +53,74 @@ a {
 	text-decoration: none;
 }
 
-/*part 8*/
-.page-analytics1 {
+.page-subscribe h2 {
+	font-size: 50px;
+	font-weight: 600;
+	color: #fff;
+}
 
+.page-subscribe h2 span{
+	font-size: 14px;
+	font-weight: 800;
+	color: #00bffe;
+	display: block;
+}
+
+.page-software h2 {
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
+}
+
+.page-software dt {
+	font-size: 16px;
+	font-weight: 700;
+	color: #5a6789;
+}
+
+.page-stat {
+	text-align: center;
+}
+.page-stat h2 {
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
+	line-height: 60px;
+}
+
+.page-stat h2 span {
+	font-size: 16px;
+	font-weight: 800;
+	color: #1085e4;
+	display: block;
+	line-height: 60px;
+	text-transform: uppercase;
+}
+
+.page-app h2 {
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
+}
+
+.difp {
+	font-size: 16px;
+	font-weight: 700;
+	color: #c4d2dd;
+}
+
+/*part 8*/
+.page-analytics1 h2{
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
 }
 
 /*part 9*/
-.page-analytics2 {
-
+.page-analytics2 h2 {
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
 }
 
 
