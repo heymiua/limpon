@@ -20,12 +20,53 @@ a {
 	font-weight: 700;
 	color: #6e7ea9;
 	text-transform: uppercase;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.btn-group a + a {
+	margin-left: 15px;
+}
+
+.btn-primary {
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 2.5px;
+	color: #fff;
+	text-transform: uppercase;
+	border: 1px solid #1085e4;
+	background-color: #1085e4;
+	padding: 20px 40px;
+	border-radius: 30px;
+}
+
+.btn-primary:hover {
+	color: #1085e4;
+	background-color: #fff;
+}
+
+.btn-secondary {
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 2.5px;
+	color: #7e8bae;
+	text-transform: uppercase;
+	border: 1px solid #cbdbe8;
+	background-color: #cbdbe8;
+	padding: 20px 40px;
+	border-radius: 30px;
+}
+
+.btn-secondary:hover {
+	color: #cbdbe8;
+	background-color: #fff;
 }
 
 .btn-free {
-	color: #fff;
 	font-weight: 400;
-	background: #1085e4;
+    letter-spacing: 1.5px;
+    padding: 21px 56px;
 }
 
 .grid h2 {
